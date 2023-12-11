@@ -1,0 +1,14 @@
+name: env_diss
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - langchain
+  - pytesseract
+  - numpy
+  - nltk
+  - fasttext
+  - matplotlib
+  - pandas
+  - tinydb
