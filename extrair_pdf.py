@@ -21,7 +21,7 @@ def inf_filename():
 
 def titulo1(string):
     titulo = string.split("_")
-    return titulo[-1]
+    return titulo[-1][:-4]
     
         
         
